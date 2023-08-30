@@ -1,11 +1,22 @@
 # Social Media Stats Servant
 
-## First exploration on possible sources 
+Idea: research agent that fact-checks political statements and provides statistical sources, such as what aomni currently provides
 
-* https://de.statista.com/statistik/daten/studie/28347/umfrage/zuwanderung-nach-deutschland/#:~:text=Im%20Jahr%202022%20sind%202,folglich%20plus%201%2C5%20Millionen.
+* https://aomni.com/research/78fce04f-6675-4a14-84ad-82a0bef14523
 
-* https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/_inhalt.html
 
+## Research on building GPT-based agents
+
+### Deployed Agents
+
+*  https://aomni.com
+
+* https://silatus.com/
+
+* https://app.cognosys.ai/
+
+
+### Tutorials and Resources on Building Research Agents
 * https://www.phind.com/search?cache=ngusb6vmqx6ywwfppj1dt2xk
 
 * https://www.phind.com/search?cache=b7qcsay1dnd2clsp26p00k8j
@@ -18,13 +29,12 @@
 
 * https://www.youtube.com/watch?v=zzFuDPn4lDg
 
-* https://aomni.com/research/78fce04f-6675-4a14-84ad-82a0bef14523
-
-* https://silatus.com/
-
-* https://app.cognosys.ai/
-
 * https://github.com/FlowiseAI/Flowise
 
 * https://www.youtube.com/watch?v=riXpu1tHzl0&source_ve_path=MjM4NTE&feature=emb_title
+
+### Stats on Inmigration 
+* https://de.statista.com/statistik/daten/studie/28347/umfrage/zuwanderung-nach-deutschland/#:~:text=Im%20Jahr%202022%20sind%202,folglich%20plus%201%2C5%20Millionen.
+
+* https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/_inhalt.html
 
