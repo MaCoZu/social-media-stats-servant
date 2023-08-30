@@ -15,6 +15,10 @@ Idea: research agent that fact-checks political statements and provides statisti
 
 * https://app.cognosys.ai/
 
+## A Survey on Building LLM-based Autonomous Agents
+
+* https://arxiv.org/pdf/2308.11432v1.pdf
+
 
 ### Tutorials and Resources on Building Research Agents
 * https://www.phind.com/search?cache=ngusb6vmqx6ywwfppj1dt2xk
