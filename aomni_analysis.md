@@ -1,5 +1,7 @@
 # Analysis of Immigration in Germany in 2023: Statistics, Political Statements, and Public Sentiment
 
+> Prompt: Tell me about statistics, public statements by political figures, and overall public sentiment (summarized from X -formerly Twitter-) regarding immigration in Germany in 2023
+
 https://www.aomni.com/research/78fce04f-6675-4a14-84ad-82a0bef14523
 
 ## Key Takeaways
