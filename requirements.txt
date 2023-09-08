@@ -11,3 +11,4 @@ html2text
 playwright 
 beautifulsoup4
 nest_asyncio
+PyPDF2
