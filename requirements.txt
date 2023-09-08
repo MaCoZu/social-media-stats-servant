@@ -1,0 +1,14 @@
+langchain
+openai
+python-dotenv
+google-search-results
+google-api-python-client
+chromadb
+transformers
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+aleph-alpha-client
+html2text
+playwright 
+beautifulsoup4
+nest_asyncio
+PyPDF2
